@@ -30,11 +30,11 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.funware.uk": "https://registry-1.docker.io",
-     "quay.funware.uk": "https://quay.io",
-     "gcr.funware.uk": "https://k8s.gcr.io",
-     "k8s-gcr.funware.uk": "https://k8s.gcr.io",
-     "ghcr.funware.uk": "https://ghcr.io",
+     "docker.mydomain.com": "https://registry-1.docker.io",
+     "quay.mydomain.com": "https://quay.io",
+     "gcr.mydomail.com": "https://k8s.gcr.io",
+     "k8s-gcr.mydomain.com": "https://k8s.gcr.io",
+     "ghcr.mydomain.com": "https://ghcr.io",
    };
    ```
 
